@@ -1,0 +1,51 @@
+@charset "uff-8";
+
+
+.font{
+  background-color: rgb(255, 255, 255);
+}
+h1{
+    background-color: brown;
+    text-align: center;
+} 
+.감귤농장2{
+    font-family: '맑은고딕',sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+
+.감귤1{
+    color: cadetblue;
+    text-decoration: underline;
+}
+.기획전{
+    color: brown;
+}
+#예약1{
+    background-color: fuchsia;
+    text-decoration: none;
+    font-weight: bold;
+}
+.text{
+    background-color: cornflowerblue;
+}
+.상세1{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(10, 240, 132);
+}
+.청정제주{
+    background-color: coral;
+    text-align: right;
+    font-weight: bold;
+}
+.한라봉{
+    background-color:indianred
+}
+.노자귤{
+    background-color:indianred
+}
+.한사람{
+    color: red;
+}
